@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(197, 194, 193, 0.493);
+}
+header{
+    background-color: rgba(238, 196, 165, 0.493);
+    padding: 5px;
+    margin: auto;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+}
+a{
+    color: brown;
+    text-decoration: none;
+    font-size: 20px;
+}
+#bn{
+  text-decoration: underline;
+  text-align: center;
+  color: brown;
+}
+#na:hover{
+  color: rgb(46, 9, 88);
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+h4{
+    color: blue;
+    
+}
+#pp{
+  font-weight: bolder;
+
+}
+h5{
+  color: blue;
+}
+html {
+  scroll-behavior: smooth;
+}
+
